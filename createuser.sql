@@ -9,3 +9,4 @@ create table users (
 
 insert into users (id, firstname, lastname)
 values (1, "Shubham", "Goyal")
+values (2, "Nik", "G")
